@@ -33,6 +33,9 @@
 <ul>
     <li>Flutter SDK installed on your machine.</li>
     <li>Compatible device or emulator for testing.</li>
+    <li>A Firebase project set up in the Firebase Console.</li>
+    <li>Firebase configuration files (google-services.json for Android and GoogleService-Info.plist for iOS) integrated into the project.</li>
+    
 </ul>
 
 <h3>Steps</h3>
