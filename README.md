@@ -90,4 +90,8 @@
 <hr>
 
 <h2>Contact</h2>
-<p>For questions or support, please contact [your email or name].</p>
+<p>For questions or support, please contact viranitulsi153@gmail.com.</p>
+
+<h2>Issues</h2>
+<p>For any issues or feature requests, please visit the <a href="https://github.com/iamtvirani/ml_kit_Example/issues">GitHub Issues page</a>.</p>
+<p>If this example help you then give star and support me ♥️ :)</p>
